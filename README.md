@@ -2,5 +2,4 @@ Hey I'm skye (she/her) and I'm an undergraduate computing science student at the
 Kinda bare bones atm but I PROMISE I'll have more things here that aren't just assignments :D
 
 Projects will primarily be done in Java as that is what my university chooses to teach in, and the practice of concepts taught is important.
-Although, there might be some Python for ML based assignments as well.
-
+Although, there might be some Python or C for other things as well.
