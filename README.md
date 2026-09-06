@@ -4,20 +4,9 @@ I'm Skye (she/they), a 22 y/o software developer who just graduated from univers
 
 ---
 
-## Current Interests:
+### Current Interests:
 - 3DS Homebrew Software
 - Game Development in Godot
 - Web services and APIs
 - Bash scripting
 - Linux
-
-## Languages I have (at least) tinkered with:
-- Java
-- C#
-- C/C++
-- GDScript
-- Rust
-- Ruby
-- Python
-- Javascript
-- HTML/CSS
