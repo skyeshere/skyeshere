@@ -9,4 +9,5 @@ I'm Skye (she/they), a 22 y/o software developer who just graduated from univers
 - Game Development in Godot
 - Web services and APIs
 - Bash scripting
+- Low-Level languages (Rust, C/C++)
 - Linux
